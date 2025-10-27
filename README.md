@@ -37,6 +37,7 @@ Execute the script from your command line after ensuring your path is correctly 
 ```bash
 python calculate_solar.py
 
+##
 📝 How to Use This Code
 Run QGIS: Open your QGIS Desktop application.
 
